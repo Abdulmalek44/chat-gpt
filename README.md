@@ -1,4 +1,4 @@
-# `Netflix`
+# `ChatGPT`
 
 This is a ChatGPT website built with React.js, OpenAI API, Material-UI, and Axios. The website allows users to interact with the OpenAI GPT-3 language model through a simple chat interface.
 
