@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/chat-gpt/static/css/main.1b293ee2.css",
+    "main.js": "/chat-gpt/static/js/main.4b6a769f.js",
+    "static/media/logo.svg": "/chat-gpt/static/media/logo.b99eefa5b0d024dc3e4a9a506a53ffac.svg",
+    "index.html": "/chat-gpt/index.html",
+    "main.1b293ee2.css.map": "/chat-gpt/static/css/main.1b293ee2.css.map",
+    "main.4b6a769f.js.map": "/chat-gpt/static/js/main.4b6a769f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b293ee2.css",
+    "static/js/main.4b6a769f.js"
+  ]
+}
