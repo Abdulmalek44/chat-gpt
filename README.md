@@ -10,7 +10,7 @@ This is a ChatGPT website built with React.js, OpenAI API, Material-UI, and Axio
 ### `Technologies Used`: 
 - React.js: JavaScript library for building user interfaces
 - Material-UI: A UI component library that implements Google's Material Design.
-- TMDB API: The Movie Database API for fetching movie data
+- Axios: A JavaScript library used for making HTTP requests.
 - OpenAI API: The OpenAI API is used to integrate the ChatGPT model into the website.
   It allows sending requests to the model and receiving responses
 
